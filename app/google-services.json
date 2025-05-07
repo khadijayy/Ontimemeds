@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "519942169751",
+    "project_id": "k0000-1",
+    "storage_bucket": "k0000-1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519942169751:android:d24a3df7718bc0f7aaf5d2",
+        "android_client_info": {
+          "package_name": "com.example.ontimemeds"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL7mDVQyIDBx7tfHWX4fDSNuOGjHxSL9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
