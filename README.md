@@ -26,6 +26,6 @@
 ## 🎨 Figma Design Preview
 
 Below is a preview of the design created in Figma:
-![completedesign-preview]
+![completedesign-preview](screenshot/project_overview.png)
 
 ---
