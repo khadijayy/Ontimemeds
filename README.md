@@ -19,8 +19,6 @@
 - **IDE**: Android Studio  
 - **Platform**: Native Android  
 - **Designs**: Created with Figma.
-- 🔗 [View Full Figma Design](https://www.figma.com/your-design-link-here)   
-
 ---
 
 ## 🎨 Figma Design Preview
