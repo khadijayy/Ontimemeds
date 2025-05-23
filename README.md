@@ -27,3 +27,7 @@ Below is a preview of the design created in Figma:
 ![completedesign-preview](screenshot/project_overview.png)
 
 ---
+## 🚀 Getting Started
+- Clone the repository
+- Open in Android Studio
+- Run on an emulator or Android device
